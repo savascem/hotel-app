@@ -26,4 +26,4 @@ The API endpoints are created using Django REST Framework. The project consists 
 
 * Reservation api endpoints
 
-![reservationapi](project_images/reservations_api_endpoints.png)
+![reservationapi](project_images/reservation_api_endpoints.png)
